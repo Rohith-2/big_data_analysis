@@ -1,3 +1,5 @@
 *.class
 *.log
 *.csv
+*.shuffle
+dir_to_ignore/Data/
