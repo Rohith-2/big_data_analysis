@@ -6,27 +6,39 @@ The data consists of flight arrival and departure details for all commercial fli
 https://www.kaggle.com/bulter22/airline-data
 
 ### Data Description
-ActualElapsedTime 
-AirTime 
-ArrDelay 
-ArrTime 
-CRSArrTime 
-CRSDepTime 
-CRSElapsedTime 
-CancellationCode 
-Cancelled 
-CarrierDelay 
-DayOfWeek 
-DayofMonth
-DepDelay 
-DepTime 
+ActualElapsedTime  
+AirTime   
+ArrDelay   
+ArrTime   
+CRSArrTime   
+CRSDepTime   
+CRSElapsedTime   
+CancellationCode   
+Cancelled   
+CarrierDelay   
+DayOfWeek   
+DayofMonth  
+DepDelay   
+DepTime   
 
 
 _______
 
-Dest Distance Diverted FlightNum LateAircraftDelay Month NASDelay Origin SecurityDelay TailNum TaxiIn TaxiOut   
+Dest   
+Distance   
+Diverted   
+FlightNum   
+LateAircraftDelay   
+Month   
+NASDelay   
+Origin   
+SecurityDelay   
+TailNum   
+TaxiIn   
+TaxiOut   
 UniqueCarrier- Flight Unique Code for the Airline (carriers.csv)    
-WeatherDelay Year
+WeatherDelay   
+Year  
 
 ## Challenges
 The aim of the data expo is to provide a graphical summary of important features of the data set. This is intentionally vague in order to allow different entries to focus on different aspects of the data, but here are a few ideas to get you started:
