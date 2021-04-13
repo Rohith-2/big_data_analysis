@@ -6,6 +6,7 @@ The data consists of flight arrival and departure details for all commercial fli
 https://www.kaggle.com/bulter22/airline-data
 
 ### Data Description
+
 ActualElapsedTime  
 AirTime   
 ArrDelay   
@@ -20,10 +21,6 @@ DayOfWeek
 DayofMonth  
 DepDelay   
 DepTime   
-
-
-_______
-
 Dest   
 Distance   
 Diverted   
@@ -31,13 +28,13 @@ FlightNum
 LateAircraftDelay   
 Month   
 NASDelay   
-Origin   
+Origin - 21  
 SecurityDelay   
 TailNum   
 TaxiIn   
 TaxiOut   
-UniqueCarrier- Flight Unique Code for the Airline (carriers.csv)    
-WeatherDelay   
+UniqueCarrier- Flight Unique Code for the airline (carriers.csv)    
+WeatherDelay -28 
 Year  
 
 ## Challenges
