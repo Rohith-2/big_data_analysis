@@ -7,5 +7,5 @@ delay_avg.toDF("Destination","Avg_Arrival","Avg_Dept").show()
 val overall_delay_sum = delay_avg.map{case(a,b,c)=>(a,b+c)}
 overall_delay_sum.toDF("Destination","Overall Average Delay").show()
 
-val Maxdelay_origin = overall_delay_sum.filter(_._2 >= 70)
-Maxdelay_origin.toDF("Destination","Overall Average Delay above Threshold").show()
+val Maxdelay_origin = overall_delay_sum.filter(_._2 >= 30)
+Maxdelay_origin.toDF("Destination","Overall Average Delay above Threshold (30)").show()
