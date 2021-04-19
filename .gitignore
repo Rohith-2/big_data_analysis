@@ -5,3 +5,10 @@
 dir_to_ignore/Data/
 ._Analysis_Dashboard.jpg
 ._sampleReport.scala
+._out.scala
+._report.scala
+.metals/metals.h2.db
+.Rhistory
+.vscode/settings.json
+scripts/._Dest_AvgDelay.scala
+scripts/._Origin_AvgDelay.scala
