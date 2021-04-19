@@ -49,7 +49,9 @@ The aim of the data expo is to provide a graphical summary of important features
 
 ## Instructions
 To run the Entire Analysis:  
+On Terminal / CMD :  
 ```
 spark-shell  
-:load sampleReport.scala
-```
+:load report.scala
+```  
+The output of the exisiting report in saved in <i>out.scala</i> 
