@@ -1,9 +1,14 @@
-# big_data_analysis
+# Big_Data_Analysis
 19AIE214-Big Data Analysis End Project
+Authors:  
+Anirudh Vadakedath     
+Rohith Ramakrishnan   
+<hr style=\"border:0.5px solid gray\"> </hr>
 
 ## Data
 The data consists of flight arrival and departure details for all commercial flights within the USA, from October 1987 to April 2008. This is a large dataset: there are nearly 120 million records in total, and takes up 4 gigabytes of space compressed and 12 gigabytes when uncompressed.
 https://www.kaggle.com/bulter22/airline-data
+<hr style=\"border:0.5px solid gray\"> </hr>
 
 ### Data Description
 | Sr.No |	Name |	Description |
@@ -37,15 +42,19 @@ https://www.kaggle.com/bulter22/airline-data
 |27	|NASDelay	|in minutes
 |28	|SecurityDelay	|in minutes
 |29	|LateAircraftDelay	|in minutes
+<hr style=\"border:0.5px solid gray\"> </hr>
+
 ## Challenges
 The aim of the data expo is to provide a graphical summary of important features of the data set. This is intentionally vague in order to allow different entries to focus on different aspects of the data, but here are a few ideas to get you started:  
 
   When is the best time of day/day of week/time of year to fly to minimise delays?  
   Do older planes suffer more delays?  
   How well does weather predict plane delays?  
+<hr style=\"border:0.5px solid gray\"> </hr>
 
 ## Dashboard
 ![Analysis_Dashboard](https://user-images.githubusercontent.com/55501708/115195544-83eda080-a10c-11eb-8ec6-7497406bb17d.jpg)
+<hr style=\"border:0.5px solid gray\"> </hr>
 
 ## Instructions
 To run the Entire Analysis:  
