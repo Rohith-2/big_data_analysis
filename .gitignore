@@ -3,3 +3,5 @@
 *.csv
 *.shuffle
 dir_to_ignore/Data/
+._Analysis_Dashboard.jpg
+._sampleReport.scala
