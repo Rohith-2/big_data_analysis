@@ -47,5 +47,9 @@ The aim of the data expo is to provide a graphical summary of important features
 ## Dashboard
 ![Analysis_Dashboard](https://user-images.githubusercontent.com/55501708/115195544-83eda080-a10c-11eb-8ec6-7497406bb17d.jpg)
 
-
-
+## Instructions
+To run the Entire Analysis:  
+```
+spark-shell  
+:load sampleReport.scala
+```
