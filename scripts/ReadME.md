@@ -1,6 +1,7 @@
 Outline  
  |-Dest_AvgDelay.scala      
- |-- Creates a Table of delays per Destination Airport over the Years : Destination | Sum_of_delays_over_years/No_of_noted_delays_over_years |    
+ |-- Creates a Table of delays per Destination Airport over the Years : 
+ |   Destination | Sum_of_delays_over_years/No_of_noted_delays_over_years    
  |  
  |-Monthly_AvgDelay.scala    
  |-- Creates a Table of Monthly Average delays : Dates_of_Month | Sum_of_delays/No_of_noted_delays.     
