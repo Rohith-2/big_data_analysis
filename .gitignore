@@ -12,3 +12,4 @@ dir_to_ignore/Data/
 .vscode/settings.json
 scripts/._Dest_AvgDelay.scala
 scripts/._Origin_AvgDelay.scala
+Scripts/._samplingData.scala
