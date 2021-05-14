@@ -1,7 +1,7 @@
 # Big_Data_Analysis
 ### 19AIE214-Big Data Analysis End Project   
 Authors:  
-Anirudh Vadakedath [@anirudhv14]( https://github.com/anirudhv14). 
+Anirudh Vadakedath [@anirudhv14]( https://github.com/anirudhv14)    
 Rohith Ramakrishnan   
 <hr style=\"border:0.5px solid gray\"> </hr>
 
